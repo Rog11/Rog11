@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/li-jui-tseng-70668027b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="[https://github.com/Rog11](https://portfolio-chi-two-35.vercel.app/#home)" target="_blank">
+  <a href="https://portfolio-chi-two-35.vercel.app/#home" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
